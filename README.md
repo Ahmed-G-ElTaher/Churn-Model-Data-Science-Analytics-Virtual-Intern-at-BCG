@@ -1,5 +1,5 @@
 ﻿# Data Science & Analytics Virtual Intern at BCG :
- Churn-Model-Data-Science-Analytics-Virtual-Intern-at-BCG
+ Churn-Model-on-Data-Science-&-Analytics-Virtual-Intern-at-BCG
 
 ## - First Task : Business Understanding & Hypothesis Framing
      Understanding the business context and problem statement.
