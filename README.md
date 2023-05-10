@@ -8,7 +8,6 @@
 ## - Second Task : Exploratory Data Analysis
      Understanding the business through data.
      
-     https://public.tableau.com/views/BCG_Intern/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 ## - Third Task : Feature Engineering & Modelling
