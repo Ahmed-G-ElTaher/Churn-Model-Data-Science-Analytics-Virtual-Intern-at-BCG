@@ -13,6 +13,7 @@
 
 ## - Second Task : Exploratory Data Analysis
      Understanding the business through data.
+     * After the AD send the data, i Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions.
      
 
 
