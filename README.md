@@ -7,7 +7,7 @@
 #### * A fair hypothesis is that price changes affect customer churn.
 #### * The head of the SME division is considering a 20% discount that is considered large enough to dissuade almost anyone from churning (especially those for whom price is the primary concern).
 #### * i email the AD to erquest the data(Customer data,Churn data and Historical price data).
-#### * ---------------------------------------------------------------------------- *
+# ______________________________________________________________________________________
 
 
 ## - Second Task : Exploratory Data Analysis
