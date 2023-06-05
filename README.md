@@ -1,6 +1,6 @@
 ﻿# Data Science & Analytics Virtual Intern at BCG :
  Churn-Model-on-Data-Science-&-Analytics-Virtual-Intern-at-BCG
-# _________________________________________________________________
+# ______________________________________________________
 
 ## - First Task : Business Understanding & Hypothesis Framing
  ### Understanding the business context and problem statement.
@@ -8,7 +8,7 @@
 #### * A fair hypothesis is that price changes affect customer churn.
 #### * The head of the SME division is considering a 20% discount that is considered large enough to dissuade almost anyone from churning (especially those for whom price is the primary concern).
 #### * i email the AD to erquest the data(Customer data,Churn data and Historical price data).
-# _________________________________________________________________
+# ______________________________________________________
 
 
 ## - Second Task : Exploratory Data Analysis
@@ -20,8 +20,7 @@
  - #### on average churned clients drives more gross and net margin 
  - #### consumption and forcasting between two groubs almost the same till 75% 
  - #### net margin will be a little bit higher than the current clients after 20% discount 
-# _________________________________________________________________
- 
+# ______________________________________________________
  
 
 ## - Third Task : Feature Engineering & Modelling
@@ -57,9 +56,10 @@
 #### * The Best Model is : CatBoostClassifier With Downsampling data because the accuracy is higher.
 
 
-# _________________________________________________________________
+# ______________________________________________________
 
 
 
 ## - Forth Task : Findings & Recommendations
      Presenting your results and giving recommended actions to the client
+
