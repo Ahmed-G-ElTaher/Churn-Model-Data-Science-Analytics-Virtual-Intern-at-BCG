@@ -11,10 +11,14 @@
 
 
 ## - Second Task : Exploratory Data Analysis
-     Understanding the business through data.
-     * After the AD send the data, i Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions.
-     
-
+ ### Understanding the business through data.
+#### * After the AD send the data, i Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions.
+#### * Try to verify the hypothesis of price sensitivity being to some extent correlated with churn.
+#### * Try to prepare a half-page summary or slide of key findings and add some suggestions for data augmentation
+#### * After EDA, i found some conclusions : 
+ - on average churned clients drives more gross and net margin 
+ - consumption and forcasting between two groubs almost the same till 75% 
+ - net margin will be a little bit higher than the current clients after 20% discount 
 
 ## - Third Task : Feature Engineering & Modelling
      Uncovering signals within the data, predicting churn probability and evaluating model performance.
