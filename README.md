@@ -2,7 +2,7 @@
  Churn-Model-on-Data-Science-&-Analytics-Virtual-Intern-at-BCG
 
 ## - First Task : Business Understanding & Hypothesis Framing
-     ###Understanding the business context and problem statement.
+ ### Understanding the business context and problem statement.
      * PowerCo. needs BCG to help diagnose the source of churning SME customers.
      * A fair hypothesis is that price changes affect customer churn.
      * The head of the SME division is considering a 20% discount that is considered large enough to dissuade almost anyone from churning
