@@ -17,9 +17,9 @@
 #### * Try to verify the hypothesis of price sensitivity being to some extent correlated with churn.
 #### * Try to prepare a half-page summary or slide of key findings and add some suggestions for data augmentation
 #### * After EDA, i found some conclusions : 
- - on average churned clients drives more gross and net margin 
- - consumption and forcasting between two groubs almost the same till 75% 
- - net margin will be a little bit higher than the current clients after 20% discount 
+ -#### on average churned clients drives more gross and net margin 
+ -#### consumption and forcasting between two groubs almost the same till 75% 
+ -#### net margin will be a little bit higher than the current clients after 20% discount 
 # _________________________________________________________________
  
  
