@@ -19,9 +19,13 @@
  - on average churned clients drives more gross and net margin 
  - consumption and forcasting between two groubs almost the same till 75% 
  - net margin will be a little bit higher than the current clients after 20% discount 
+ #### * ---------------------------------------------------------------------------- *
+ 
+ 
 
 ## - Third Task : Feature Engineering & Modelling
-     Uncovering signals within the data, predicting churn probability and evaluating model performance.
+ ### Uncovering signals within the data, predicting churn probability and evaluating model performance.
+#### * 
 
 
 ## - Forth Task : Findings & Recommendations
