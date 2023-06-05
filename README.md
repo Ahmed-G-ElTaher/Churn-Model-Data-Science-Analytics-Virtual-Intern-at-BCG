@@ -26,7 +26,39 @@
 
 ## - Third Task : Feature Engineering & Modelling
  ### Uncovering signals within the data, predicting churn probability and evaluating model performance.
-#### * 
+ 
+#### * Sub-Task 1 :
+ - #### Think of ways to evaluate a feature against a label.
+ - #### Think of ways to add new features which would complement the already existing ones. 
+ - #### Think of feature granularity. 
+ - #### Remove unnecessary features.
+ 
+#### * Sub-Task 2 :
+
+ - #### Is this problem best represented as classification or regression? 
+ - #### What kind of model performance do you think is appropriate? 
+ - #### Most importantly how would you measure such a performance? 
+ - #### How would you tie business metrics such as profits or savings to the model performance?
+
+#### * After preparing data, i do some feature engineering, then i Start with a Dummy Model (np.rand) - Baseline Model with accuarcy 0.51 and F1_score 0.18
+#### * I try a Simple Model (linear) with :
+ - #### Linear model
+ - #### calculate score
+ - #### calculate feature imporance
+ - #### Simple model with top 10/20 features
+#### * Also i try a Simple Model with Balanced Dataset ( Upsampling[f1-score 0.21], Downsampling[f1-score 0.22] ).
+#### * Then i try Complex and Explainable Modeles (Tree Based) :
+ - #### Decision Tree (Original_data[f1-score 0.12], Upsampling[f1-score  0.15], Downsampling[f1-score 0.19] ).
+ - #### Random Forest (Original_data[f1-score 0.05], Upsampling[f1-score  0.08], Downsampling[f1-score 0.19] ).
+#### * Finally i try Deeper Modeles :
+ - #### XGBoost (Original_data[f1-score 0.04], Upsampling[f1-score  0.12], Downsampling[f1-score 0.22] ).
+ - #### CatBoost (Original_data[f1-score 0.03], Upsampling[f1-score  0.11], Downsampling[f1-score 0.22] ).
+
+#### * The Best Model is : CatBoostClassifier With Downsampling data because the accuracy is higher.
+
+
+# _________________________________________________________________
+
 
 
 ## - Forth Task : Findings & Recommendations
