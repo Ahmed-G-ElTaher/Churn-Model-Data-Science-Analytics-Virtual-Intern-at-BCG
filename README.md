@@ -65,5 +65,5 @@
 
 
 ## - Forth Task : Findings & Recommendations
-     Presenting your results and giving recommended actions to the client
+     Presenting the results and giving recommended actions to the client to AD in draft an abstract (executive summary) of findings.
 
