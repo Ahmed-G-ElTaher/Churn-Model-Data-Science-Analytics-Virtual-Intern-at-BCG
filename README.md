@@ -2,7 +2,7 @@
  Churn-Model-on-Data-Science-&-Analytics-Virtual-Intern-at-BCG
  
  
- ![completion_certificate.pdf](https://github.com/Ahmed-G-ElTaher/Churn-Model-on-Data-Science-and-Analytics-Virtual-Intern-at-BCG/files/11772786/completion_certificate.pdf)
+ [completion_certificate.pdf](https://github.com/Ahmed-G-ElTaher/Churn-Model-on-Data-Science-and-Analytics-Virtual-Intern-at-BCG/files/11772786/completion_certificate.pdf)
 
 # __________________________________________
 
